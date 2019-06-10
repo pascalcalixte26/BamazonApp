@@ -7,11 +7,7 @@ It also takes in the order and advises whether or not there enough units availab
 
 Please see image below of database from MYSQL
 
-![](screencap%20and%20gifs/bamazonCapture.JPG)
 
-![](gif%20and%20screenshots/Log.jpeg)
-
-![](gif%20and%20screenshots/liri_action.gif)
 
 
 
