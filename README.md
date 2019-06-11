@@ -12,4 +12,6 @@ Below is screencaps and gifs of application in action
 
 ![](gif%20and%20screenshots/bamazoncapture.jpg)
 
+![](gif%20and%20screenshots/bamazon.gif)
+
 
