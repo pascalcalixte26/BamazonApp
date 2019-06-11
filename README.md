@@ -10,4 +10,3 @@ If the order they place is too high, then the purchase will NOT go through
 
 Below is screencaps and gifs of application in action
 
-![](screencaps%20and%20gifs/bamazon.JPG)
